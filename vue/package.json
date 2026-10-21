@@ -47,7 +47,7 @@
         "@vitejs/plugin-vue": "^6.0.8",
         "@vue/language-core": "^3.3.11",
         "typescript": "^6.0.3",
-        "vite": "^8.2.2",
+        "vite": "^8.3.5",
         "vite-plugin-dts": "^5.1.0"
     },
     "gitHead": "96cc2f3fa1a3724a4a96b19cc7c5d97f04cc49f8",
