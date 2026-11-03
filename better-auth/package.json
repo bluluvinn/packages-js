@@ -51,7 +51,7 @@
         "@tsconfig/node18": "^18.2.7",
         "@types/node": "^24.0.0",
         "@types/react": "^19.2.18",
-        "better-auth": "^1.7.3",
+        "better-auth": "^1.7.7",
         "react": "^19.2.8",
         "typescript": "^6.0.3",
         "vitest": "^4.1.11"
